@@ -1,5 +1,5 @@
 // Jesse Kennedy
-// CPSC 322 Project 1
+// Operating Systems Project
 // Fall 2015
 
 #define _GNU_SOURCE
